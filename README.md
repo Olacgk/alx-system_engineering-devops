@@ -1,0 +1,1 @@
+Bash's script directory

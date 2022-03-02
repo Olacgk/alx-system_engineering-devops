@@ -3,3 +3,4 @@
 .a script to change the working directory to the user's home directory 
 .a script to display contents in a long format
 .a script to display contents including hidden files
+.a script displaying contents in long format, with user id and hidden files

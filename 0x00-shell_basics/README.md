@@ -2,3 +2,4 @@
 .a script to display list of directory
 .a script to change the working directory to the user's home directory 
 .a script to display contents in a long format
+.a script to display contents including hidden files

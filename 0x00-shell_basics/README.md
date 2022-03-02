@@ -4,3 +4,4 @@
 .a script to display contents in a long format
 .a script to display contents including hidden files
 .a script displaying contents in long format, with user id and hidden files
+.a script to create a dictionary ine the tmp

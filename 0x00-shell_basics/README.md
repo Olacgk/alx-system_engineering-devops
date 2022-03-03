@@ -14,3 +14,4 @@
 .a script to copy all html files
 .a script to move a lot of files
 .delete emacs file
+.create a directories

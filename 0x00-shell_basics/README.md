@@ -11,3 +11,4 @@
 .a a script that changes the working directory to the previous one.
 .a script to print file named
 .a symbolic name
+.a script to copy all html files

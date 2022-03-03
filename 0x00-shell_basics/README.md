@@ -9,5 +9,5 @@
 .a script to delete a file
 .a script to delete a directory
 .a a script that changes the working directory to the previous one.
-
+.a script to print file named
 

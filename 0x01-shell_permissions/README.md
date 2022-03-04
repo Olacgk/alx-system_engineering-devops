@@ -8,3 +8,4 @@
 7.write a script that adds execution permission to the owner, the group owner and the other users to the file hello.
 8.Write a script that sets the permission to the file hello.
 9.write a script that sets the mode of the file hello.
+10.write a script that sets the mode of the file hello the same as olleh's mode

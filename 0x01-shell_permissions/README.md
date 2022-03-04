@@ -15,3 +15,4 @@
 14.write a script that changes the owner to vincent and the group owner to stafffor all the files and directories in the working directory.
 15.a script that changes the owner and the group owner of hello tovincent and staff respectively.
 16.a script that changes the owner of the file hello tobetty only if it is owned by the user guillaume.
+17.play the star wars IV episode in the terminal

@@ -13,3 +13,4 @@
 12.create a script that creates a directory called my_dir with permissions 751 in the working directory.
 13.write a scripte that changes the group owner to school for the file hello
 14.write a script that changes the owner to vincent and the group owner to stafffor all the files and directories in the working directory
+15.a script that changes the owner and the group owner of hello tovincent and staff respectively

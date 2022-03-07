@@ -18,7 +18,8 @@
 17. display all the lines in the file that do not contain the pattern "bin"  
 18. display all lines of the starting with a letter  
 19. replace all characters  
-20.a script that removes all letters c and C from input     
+20. a script that removes all letters c and C from input  
+21. a script that reverse its input
  
 
 

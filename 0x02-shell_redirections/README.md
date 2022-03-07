@@ -24,5 +24,6 @@
 23. a command that finds all empty files and directories in the current directory and all sub-directories  
 24. a script that lists all the files with a .gif extension in the current directoryand all its sub-directories  
 25. a script that deodes acrostics that use the first letter of each line  
+26. a script that parses web servers logs in tsv format as input and display  the 11 hosts or ip adresses  
 
 

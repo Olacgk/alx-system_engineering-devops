@@ -1,9 +1,9 @@
 0. a script that prints 'Hello, World', followed by a new line to the standard output.  
 1. a script that displays a confused smiley "(Ôo)'  
 2. display the content of the etc/passwd file  
-3.display the content of etc/passwd and etc/hosts  
+3. display the content of etc/passwd and etc/hosts  
 4. display the last 10 lines of /etc/passwd  
-5.display the first 10 lines of /etc/passwd  
+5. display the first 10 lines of /etc/passwd  
 6. a script that display the third line of the file iacta  
 7. a shell script that creates a file named ... ending by a new line  
 8. a script that writes into the file ls_cwd_content the result of the command ls -la  
@@ -12,7 +12,8 @@
 11. a script that counts the number of directories and sub-directories in the current directory  
 12. a script that displays the 10 newest files in the current directory  
 13. a script that takes alist of words as input and prints only words that appear exactly once  
-14.    
+14. display lines containing the pattern "root" from the file /etc/passwd  
+15.    
  
 
 

@@ -16,7 +16,8 @@
 15. display the number of lines that contain the pattern "bin" in the file /etc/passwd  
 16. display lines containing the pattern 'root' and 3 lines after them in the file  
 17. display all the lines in the file that do not contain the pattern "bin"  
-18. display all lines of the starting with a letter    
+18. display all lines of the starting with a letter  
+19. replace all characters     
  
 
 

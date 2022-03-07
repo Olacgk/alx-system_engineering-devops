@@ -19,7 +19,8 @@
 18. display all lines of the starting with a letter  
 19. replace all characters  
 20. a script that removes all letters c and C from input  
-21. a script that reverse its input
- 
+21. a script that reverse its input  
+22. a script that displays all users and their home directories, sorted by users  
+23. 
 
 

@@ -13,7 +13,8 @@
 12. a script that displays the 10 newest files in the current directory  
 13. a script that takes alist of words as input and prints only words that appear exactly once  
 14. display lines containing the pattern "root" from the file /etc/passwd  
-15.    
+15. display the number of lines that contain the pattern "bin" in the file /etc/passwd  
+16.    
  
 
 

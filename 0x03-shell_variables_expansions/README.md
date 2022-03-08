@@ -10,4 +10,5 @@
 9. a script that prints the result of power divided bby divide  
 10. a script that displays the result of BREATH to the power LOVE  
 11. a script that converts a number from base 2 to base 10  
-12. a script that prints all possible combinations of two letters
+12. a script that prints all possible combinations of two letters  
+13. a script that prints a number with two decimal places

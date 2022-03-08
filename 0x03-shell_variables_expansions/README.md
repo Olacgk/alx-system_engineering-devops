@@ -7,4 +7,6 @@
 6. a script that creates a new local variable  
 7. a script that creates a new global variable  
 8. a script that prints the result of the addition of 128 with the value stored in the environment variable, followed by new line  
-9. a script that prints the result of power divided bby divide
+9. a script that prints the result of power divided bby divide  
+10. a script that displays the result of BREATH to the power LOVE  
+11.

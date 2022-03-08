@@ -12,4 +12,5 @@
 11. a script that converts a number from base 2 to base 10  
 12. a script that prints all possible combinations of two letters  
 13. a script that prints a number with two decimal places  
-14. a script that converts a number from base 10 to base 16
+14. a script that converts a number from base 10 to base 16  
+15. a script that encodes and decodes text using the rot 13 encryption

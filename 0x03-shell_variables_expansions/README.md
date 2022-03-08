@@ -15,4 +15,4 @@
 14. a script that converts a number from base 10 to base 16  
 15. a script that encodes and decodes text using the rot 13 encryption  
 16. a script that prints every other line from the input, starting with the first line  
-17.
+17. a shell script that adds the two numbers stored in the environment
